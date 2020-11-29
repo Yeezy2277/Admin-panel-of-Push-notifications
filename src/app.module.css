@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto";
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main h1{
+    position: relative;
+    left: 16%;
+}
+
+.mainForm {
+    margin-top: 50px;
+    width: 350px;
+    display:flex;
+    flex-direction: column;
+}
